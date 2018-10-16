@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "strict": "off",
+    "newline-per-chained-call": "off",
+    "spaced-comment": "off",
+    "object-curly-spacing": "off",
+    "eol-last": "off",
+    "comma-dangle": "off",
+    "linebreak-style": "off",
+    "space-before-function-paren": "off",
+    "array-bracket-spacing": "off"
+  }
+}
